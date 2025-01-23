@@ -39,7 +39,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/yourusername/chatbot
+git clone https://github.com/*********/chatbot
 cd chatbot
 Create and activate a virtual environment (optional but recommended):
 
