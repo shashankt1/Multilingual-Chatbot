@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shashankt1/Multilingual-Chatbot/static/css/main.bee0b8c5.css",
+    "main.js": "/shashankt1/Multilingual-Chatbot/static/js/main.437bfbfc.js",
+    "index.html": "/shashankt1/Multilingual-Chatbot/index.html",
+    "main.bee0b8c5.css.map": "/shashankt1/Multilingual-Chatbot/static/css/main.bee0b8c5.css.map",
+    "main.437bfbfc.js.map": "/shashankt1/Multilingual-Chatbot/static/js/main.437bfbfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee0b8c5.css",
+    "static/js/main.437bfbfc.js"
+  ]
+}
